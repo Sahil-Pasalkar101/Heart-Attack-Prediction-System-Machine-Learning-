@@ -18,7 +18,7 @@ This project demonstrates data preprocessing, model training, and prediction usi
 
 The model was evaluated using classification metrics such as precision, recall, F1-score, and support.
 
-It achieved precision scores of #0.86 and #0.88, recall scores of #0.86 and #0.88, and F1-scores of 0.86 and 0.88 across the two classes.
+It achieved precision scores of 0.86 and 0.88, recall scores of 0.86 and 0.88, and F1-scores of 0.86 and 0.88 across the two classes.
 
 The evaluation was performed on a dataset with 29 samples in one class and 32 samples in the other.
 
